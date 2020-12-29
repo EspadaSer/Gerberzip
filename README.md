@@ -4,11 +4,11 @@ A Python based application to easily create a winzip file with all the necesary 
 
 This tool is aimed for people that do a lot of protyping of PCB's, as it will save you a little bit of time every time you have to send fabrication files to the PCB manufacturer. 
 
-![Demo](https://raw.githubusercontent.com/EspadaSer/Gerberzip/master/Gerberzip.gif)
-
 ## How does it work?
 
 You can access the program just by right clicking the project folder and selecting "@Gerberzip" option. The program will search just for the generated Gerber files and NC drills file and merge all of them into a single winzip file with the same name as the project folder name.  
+
+![Demo](https://raw.githubusercontent.com/EspadaSer/Gerberzip/master/Gerberzip.gif)
 
 ## Installation / Usage
 
