@@ -19,6 +19,7 @@ This program is made out of two files. The exe file is the program itself and th
 - Run Gerberzip.reg. Accept all the windows. This will create the context menu on windows to easily access the program at any time.
 - Copy Gerberzip.exe and place it on C:\ .
 - The program will be ready to use. Now you can just right click a project folder and left click on @Gerberzip to run it. 
+- A zip file will be created with the name of the selected folder and it will contain the gerber and nc drill files. The zip will be created on the same folder the selected project is. 
 
 ## Credits
 
